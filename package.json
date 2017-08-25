@@ -1,0 +1,22 @@
+{
+  "name": "action-panel",
+  "version": "1.0.0",
+  "description": "Action panel/command palette for the web.",
+  "keywords": ["action", "panel", "command", "palette"],
+  "homepage": "https://github.com/cfreear/action-panel.js#readme",
+  "bugs": {
+    "url": "https://github.com/cfreear/action-panel.js/issues"
+  },
+  "license": "Apache-2.0",
+  "author": {
+    "name": "Christian Freear"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cfreear/action-panel.js.git"
+  }
+}
